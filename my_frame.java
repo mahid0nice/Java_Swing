@@ -11,6 +11,7 @@ public class my_frame extends JFrame {
         this.setResizable(false);
         this.setVisible(true);
         this.setSize(420,420);
+        
 
         ImageIcon image = new ImageIcon("D:\\learning_java\\Java_Swing\\A Normal Day_.. _ Monster Girls X Male Reader - 8.jpg");
         this.setIconImage(image.getImage());
