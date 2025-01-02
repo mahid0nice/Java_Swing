@@ -16,7 +16,6 @@ class Flowlayout {
         frame.setLayout(new FlowLayout(FlowLayout.CENTER,5,5));
         
         JPanel panel = new JPanel();
-        panel.setBounds(100,60,250,250);
         panel.setPreferredSize(new Dimension(250,250));
         panel.setBackground(Color.LIGHT_GRAY);
         panel.setLayout(new FlowLayout());
