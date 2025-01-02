@@ -21,3 +21,4 @@ public class J_Frame {
         new my_frame();
     }
 }
+ 
